@@ -1,0 +1,15 @@
+@frame 0
+@frame 50
+Mission accomplished. Nice job, Tin Man!
+@frame 110  
+I'm the Wizard, with your ticket out of here. 
+@frame 170 
+Fire up your servos and get to the teleport pad on level 4.  
+@frame 230
+I had to rewire transport grids for three whole Sectors. 
+@frame 290
+I can't guarantee if I'll be able to hold it for long.
+@frame 350  
+So you'd best be quick. Wizard, out.
+@frame 388
+

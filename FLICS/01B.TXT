@@ -1,0 +1,17 @@
+@frame 0
+Here's a security card to get you past level three.  
+@frame 60
+Watch out on level four though, there are a lot of Mechs. 
+@frame 120
+Tell Central to find someone else to handle the meetings.  
+@frame 195
+I'm jeopardizing my cover by being here.  
+@frame 250
+I'm just a scientist.
+@frame 280
+People are getting suspicious back at the lab.
+@frame 340
+Hurry! The guards are coming!
+@frame 390
+
+

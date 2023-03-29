@@ -1,0 +1,31 @@
+@frame 0
+@frame 150
+What good will that do?
+@frame 185
+Oh, man! We shouldn't have let them go.
+@frame 235
+Shut up, Vittek! They were civilians, not rebels.  
+@frame 285
+You keep makin' noise and Command will nail us.
+@frame 335
+Command ordered the vetron unit to take out our team!
+@frame 385
+Friendly fire. They just stepped into the wrong line.
+@frame 435
+Friendly fire! Command tried to kill us for letting them go. 
+@frame 485
+Oh man, we've done it now. We'll be fragged for sure!
+@frame 535
+Quiet! Nobody's going down! Just keep your motion ...
+@frame 585
+We can't go home! You heard what happened to Owens when...
+@frame 635
+Yes we can! All right. We didn't find any rebels, 
+@frame 685
+so we couldn't have let them go, right?
+@frame 715
+I got a bad feeling about this.
+@frame 750
+@frame 1394
+
+

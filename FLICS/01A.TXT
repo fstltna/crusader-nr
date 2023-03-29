@@ -1,0 +1,30 @@
+@frame 0
+@frame 105
+First, let me say welcome to the Resistance, Captain.
+@frame 170  
+I'm sure you realize that Central thinks you're a spy. 
+@frame 230
+but I've reviewed your tapes and I think I understand you.   
+@frame 320
+Enough so that I've persuaded Central to give you a chance.
+@frame 380 
+One shot, to prove your sudden change of heart.
+@frame 440
+You will lead an attack to take a Consortium refinery off-line,
+@frame 500
+Permanently!
+@frame 530  
+An informant will provide you with a security card
+@frame 590 
+that will allow you entrance into the facility.
+@frame 650
+Your main objective is the thermal coupler on level 4.  
+@frame 710
+Once you have placed the PAC, our extraction specialist 
+@frame 770
+will give you the coordinates of the nearest teleport pad.  
+@frame 830
+Consult your DataLink if you have any further questions.  
+@frame 890
+Good luck. Maxis, out.
+@frame 940
